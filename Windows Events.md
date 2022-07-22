@@ -33,6 +33,7 @@
 | 11 | Cached Interactive | Logon with cached credentials (DC unavailable) | Yes | Yes | 
 
 - 4625 – account failed to log on – important are the reasons why the user failed to logon 
+
 | Status / substatus code | Description |
 | -- | -- |
 | 0XC000005E | There are currently no logon servers available to service the logon request. |
