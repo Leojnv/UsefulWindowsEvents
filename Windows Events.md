@@ -106,4 +106,5 @@
 - ELK stack
 - Splunk
 - Powershell
-- DeepBlueCLI
+- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
+- [What2Log](https://what2log.com/)
